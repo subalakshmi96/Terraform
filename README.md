@@ -19,6 +19,11 @@ resource "aws_instance" "web_server" {
 <img width="399" height="187" alt="image" src="https://github.com/user-attachments/assets/f87d272e-45bd-4593-a78a-dff421074d8c" />
 
 
+terraform init
+
+<img width="669" height="353" alt="image" src="https://github.com/user-attachments/assets/7a0f5f1b-8655-4cf3-a609-08b01413c507" />
+
+
 terraform plan
 
 <img width="1158" height="425" alt="image" src="https://github.com/user-attachments/assets/db263df6-cecf-4744-b21c-304dea536d8f" />
