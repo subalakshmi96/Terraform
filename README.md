@@ -92,3 +92,12 @@ These outputs can be referenced by other Terraform modules or displayed after th
 - Simplifies infrastructure management.
 - Makes Terraform configurations modular and easier to maintain.
 - Enables the same infrastructure to be deployed across multiple environments using different input values.
+
+<img width="1115" height="557" alt="image" src="https://github.com/user-attachments/assets/8afb948b-6f90-4f02-88be-07a28aa64beb" />
+
+
+<img width="761" height="271" alt="image" src="https://github.com/user-attachments/assets/372269c8-fb70-49a6-b14a-492466177291" />
+
+
+<img width="1171" height="229" alt="image" src="https://github.com/user-attachments/assets/a05d0436-1da6-457b-a747-47ed6d6ad650" />
+
