@@ -1,8 +1,11 @@
 provider "aws" {
-  region = "us-west-2"
+  region = "us-east-1"
 }
 
-resource "aws_instance" "app_server" {
-  ami           = data.aws_ami.ubuntu.id
-  instance_type = "t2.micro"
+module "ec2_instance" {
+  source = "./modules/ec2_instance"
+  ami_value = "ami-0b6d9d3d33ba97d99" # replace this
+  instance_type_value = "t3.micro"
+  subnet_id_value = "subnet-0753958b565ff02ee". # replace this
 }
+
