@@ -30,7 +30,8 @@ The root module acts as the entry point of the project. It configures the AWS pr
 - Pass environment-specific values to the module.
 
 
-<img width="573" height="178" alt="image" src="https://github.com/user-attachments/assets/1922f655-1688-4c12-824c-17664a1f8b35" />
+<img width="565" height="182" alt="image" src="https://github.com/user-attachments/assets/9a0df352-34a7-49f5-8deb-9c9cb7346513" />
+
 
 
 ---
